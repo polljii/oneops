@@ -9,7 +9,7 @@
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
 ![MS](https://img.shields.io/badge/Microsoft-365-C8102E)
-![Azure](https://img.shields.io/badge/Azure-2024-blue)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-blue)
 
 ---
 
