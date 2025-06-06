@@ -23,9 +23,3 @@
 ---
 
 ![img1](https://github.com/polljii/oneops/blob/main/oneops1.png)
-
-![img2](https://github.com/polljii/oneops/blob/main/oneops2.png)
-
-![img3](https://github.com/polljii/oneops/blob/main/oneops3.png)
-
-![img4](https://github.com/polljii/oneops/blob/main/oneops4.png)
